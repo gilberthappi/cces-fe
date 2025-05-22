@@ -140,8 +140,61 @@ A simple but functional model was built to route complaints based on category an
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
- # Screenshots from Desktop version.
-  ![screenshot](./public/demo/web/Screenshot%20from%202025-05-22%2007-18-26.png)
+# Screenshots from Desktop version
+<div class="screenshots">
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-18-26.png" alt="Desktop Screenshot 1">
+    <figcaption>Desktop Screenshot 1</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-36-16.png" alt="Desktop Screenshot 2">
+    <figcaption>Desktop Screenshot 2</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-37-20.png" alt="Desktop Screenshot 3">
+    <figcaption>Desktop Screenshot 3</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-37-47.png" alt="Desktop Screenshot 4">
+    <figcaption>Desktop Screenshot 4</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-38-32.png" alt="Desktop Screenshot 5">
+    <figcaption>Desktop Screenshot 5</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-42-08.png" alt="Desktop Screenshot 6">
+    <figcaption>Desktop Screenshot 6</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/web/Screenshot%20from%202025-05-22%2007-43-26.png" alt="Desktop Screenshot 7">
+    <figcaption>Desktop Screenshot 7</figcaption>
+  </figure>
+</div>
+
+# Screenshots from Mobile version
+<div class="screenshots">
+  <figure>
+    <img src="./public/demo/mobile/WhatsApp%20Image%202025-05-22%20at%207.46.48%20AM.jpeg" alt="Mobile Screenshot 1">
+    <figcaption>Mobile Screenshot 1</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/mobile/WhatsApp%20Image%202025-05-22%20at%207.46.49%20AM%20(1).jpeg" alt="Mobile Screenshot 2">
+    <figcaption>Mobile Screenshot 2</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/mobile/WhatsApp%20Image%202025-05-22%20at%207.46.49%20AM%20(2).jpeg" alt="Mobile Screenshot 3">
+    <figcaption>Mobile Screenshot 3</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/mobile/WhatsApp%20Image%202025-05-22%20at%207.46.49%20AM.jpeg" alt="Mobile Screenshot 4">
+    <figcaption>Mobile Screenshot 4</figcaption>
+  </figure>
+  <figure>
+    <img src="./public/demo/mobile/WhatsApp%20Image%202025-05-22%20at%207.46.50%20AM.jpeg" alt="Mobile Screenshot 5">
+    <figcaption>Mobile Screenshot 5</figcaption>
+  </figure>
+</div>
 
 ### To launch the project locally:
 
