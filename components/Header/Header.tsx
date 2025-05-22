@@ -3,7 +3,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { useRouter, usePathname } from "next/navigation";
 import { useSession } from "next-auth/react";
-import { assets } from "@/assets/Assets";
 import { LuHouse, LuLogOut } from "react-icons/lu";
 import { IoIosMail } from "react-icons/io";
 import { IoHome } from "react-icons/io5";
@@ -91,7 +90,7 @@ const Header = () => {
               <Link href="/" aria-label="Home">
                 <Image 
                   alt="Company Logo" 
-                  src={assets.images.logo} 
+                  src="/cceslogo.png" 
                   width={150}
                   height={50}
                   priority
